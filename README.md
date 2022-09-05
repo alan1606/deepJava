@@ -1,2 +1,2 @@
-# deppJava
+# deepJava
 Deep java course
